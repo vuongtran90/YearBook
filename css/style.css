@@ -464,7 +464,7 @@ header h1 {
 .cd-item-info .cd-item-action li:first-child {
   margin-left: -4px;
 }
-.cd-item-info .add-to-cart {
+.cd-item-info .vote {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
